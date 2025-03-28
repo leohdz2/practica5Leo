@@ -2,6 +2,15 @@
     margin: 0px auto;
     padding: 0px;
 }
+
+@font-face{
+    font-family: Oswald;
+    src:url(..\fonts\Oswald\Oswald-VariableFont_wght.ttf) format("truetype")
+
+   /* C:\practica5Leo\assets\fonts\Oswald\Oswald-VariableFont_wght.ttf */
+}
+
+
 .content{  
     width: 100%;
     height: auto;

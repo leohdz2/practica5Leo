@@ -1,72 +1,76 @@
-/*Cambia el color de fondo de la pagina en general*/
+/*Cambia el color de fondo de la pagina en general #6*/
 .content{
-    background-color: white;
+    background-color: rgb(241, 228, 248);
 }
-/*Cambia el color de fondo del encabezado*/
+/*Cambia el color de fondo del encabezado #7*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(79, 13, 165);
 }
-/*Cambia el color de la letra del titulo*/
+/*Cambia el color de la letra del titulo #8*/
 .galery__link{
-    color: white;
+    color: rgb(248, 159, 104);
 }
-/*Cambia el tipo de letra del titulo a Oswald*/
-/*Cambia el tamaño de la letra del titulo a 36px*/
+/*Cambia el tipo de letra del titulo a Oswald #9*/
+/*Cambia el tamaño de la letra del titulo a 36px #10*/
 .banner__title{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    font-size: 18px;
+    /*font-family: "Sans Serif", Arial, Sans-Serif; #11 */
+    font-family: "Oswald", Arial, Sans-Serif;
+    font-size: 36px;
 }
-/*Cambia el tipo de letra del titulo de la galeria a Oswald*/
-/*Cambia el color de la letra del titulo de la galeria*/
-/*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
+/*Cambia el tipo de letra del titulo de la galeria a Oswald #12*/
+/*Cambia el color de la letra del titulo de la galeria #13*/
+/*Cambia el tamaño de la letra del titulo de la galeria a 24px #14*/
 .galery__issue{
-    font-family: "Sans Serif", Arial, Sans-Serif;
-    color: black;
-    font-size: 18px;
+    font-family: "Oswald", Arial, Sans-Serif;
+    color: rgb(213, 12, 12);
+    font-size: 24px;
+    
 }
-/*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
-/*Cambia el color de la letra del titulo de la galeria*/
-/*Cambia el tamaño de la letra del titulo de la galeria*/
+/*Cambia el tipo de letra del titulo de la galeria a Montserrat #15*/
+/*Cambia el color de la letra del titulo de la galeria #16*/
+/*Cambia el tamaño de la letra del titulo de la galeria #17*/
 .galery__figure{
     background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
 }
-/*Cambia las dimensiones de las fotos de la galeria*/
+/*Cambia las dimensiones de las fotos de la galeria #18*/
 /*imagen1*/
 .galery__figure > img:nth-child(1){
-    width: 500px;
-    height: 350px;
+    width: 300px;
+    height: 150px;
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
-    width: 300px;
-    height: 350px;
+    width: 200px;
+    height: 250px;
 }
 /*imagen3*/
 .galery__figure > img:nth-child(3){
-    width: 300px;
-    height: 350px;
+    width: 100px;
+    height: 150px;
 }
 /*imagen4*/
 .galery__figure > img:nth-child(4){
-    width: 500px;
-    height: 350px;
+    width: 450px;
+    height: 270px;
 }
 /*imagen5*/
 .galery__figure > img:nth-child(5){
-    width: 600px;
-    height: 350px;
+    width: 400px;
+    height: 250px;
 }
-/*Cambiar el de fondo del pie de pagina*/
-/*Cambia la alineacion del texto a al centro*/
+/*Cambiar el de fondo del pie de pagina #19*/
+/*Cambia la alineacion del texto a al centro #20*/
 .footer{
-    background-color: black;
-    text-align: right;
+    background-color: rgb(92, 92, 92);
+    text-align: center;
 }
-/*Cambia el tipo de letra del pie de pagina a Montserrat*/
-/*Cambia el color de la letra del pie de pagina*/
-/*Cambia el tamaño de la letra del pie de pagina a 30px*/
+/*Cambia el tipo de letra del pie de pagina a Montserrat #21*/
+/*Cambia el color de la letra del pie de pagina #22*/
+/*Cambia el tamaño de la letra del pie de pagina a 30px #23*/
 .paragraph__text{
     font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    color: rgb(159, 145, 172);
+    font-size: 30px;
 }

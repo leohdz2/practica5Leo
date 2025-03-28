@@ -4,15 +4,15 @@
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: rgb(105, 16, 237);
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el color de la letra del titulo*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
 .banner__title{
     font-family: "Sans Serif", Arial, Sans-Serif;
-    color: white;
-    font-size: 18px;
+    color: rgb(250, 230, 4);
+    font-size: 36px;
 }
 /*Cambia el color de fondo de los articulos*/
 .section__article{
