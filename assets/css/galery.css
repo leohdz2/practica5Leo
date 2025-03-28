@@ -14,7 +14,7 @@
 /*Cambia el tamaño de la letra del titulo a 36px #10*/
 .banner__title{
     /*font-family: "Sans Serif", Arial, Sans-Serif; #11 */
-    font-family:Oswald;
+    font-family: "Oswald", Arial, Sans-Serif;
     font-size: 36px;
 }
 /*Cambia el tipo de letra del titulo de la galeria a Oswald #12*/
