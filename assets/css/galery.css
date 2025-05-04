@@ -1,6 +1,6 @@
 /*Cambia el color de fondo de la pagina en general #6*/
 .content{
-    background-color: rgb(241, 228, 248);
+    background-color: rgb(228, 151, 155);
 }
 /*Cambia el color de fondo del encabezado #7*/
 .header__banner{
@@ -37,8 +37,8 @@
 /*Cambia las dimensiones de las fotos de la galeria #18*/
 /*imagen1*/
 .galery__figure > img:nth-child(1){
-    width: 300px;
-    height: 150px;
+    width: 150px;
+    height: 75px;
 }
 /*imagen2*/
 .galery__figure > img:nth-child(2){
